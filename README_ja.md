@@ -12,8 +12,8 @@ SQLite は軽量、自己完結型、サーバーレス、ゼロ構成のトラ�
 
 |   インデックス | 名前                                                                               | 難易度   | Repo                                                                     | 練習                                                                         |
 |----------------|------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|              1 | [初心者のための SQLite](https://labex.io/ja/courses/sqlite-for-beginners)          | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 ラボを開始](https://labex.io/ja/courses/sqlite-for-beginners)            |
-|              2 | [SQLite 中級から上級](https://labex.io/ja/courses/sqlite-intermediate-to-advanced) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 ラボを開始](https://labex.io/ja/courses/sqlite-intermediate-to-advanced) |
+|              1 | [初心者のための SQLite](https://labex.io/ja/courses/sqlite-for-beginners)          | 初級     | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 ラボを開始](https://labex.io/ja/courses/sqlite-for-beginners)            |
+|              2 | [SQLite 中級から上級](https://labex.io/ja/courses/sqlite-intermediate-to-advanced) | 初級     | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 ラボを開始](https://labex.io/ja/courses/sqlite-intermediate-to-advanced) |
 
 ## その他
 
