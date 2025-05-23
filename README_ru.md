@@ -12,8 +12,8 @@ SQLite - это легкая, автономная, бессерверная, н
 
 |   Индекс | Название                                                                                          | Сложность   | Repo                                                                     | Практика                                                                             |
 |----------|---------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|        1 | [SQLite для начинающих](https://labex.io/ru/courses/sqlite-for-beginners)                         | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Начать Лабораторию](https://labex.io/ru/courses/sqlite-for-beginners)            |
-|        2 | [SQLite: от среднего к продвинутому](https://labex.io/ru/courses/sqlite-intermediate-to-advanced) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/sqlite-intermediate-to-advanced) |
+|        1 | [SQLite для начинающих](https://labex.io/ru/courses/sqlite-for-beginners)                         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Начать Лабораторию](https://labex.io/ru/courses/sqlite-for-beginners)            |
+|        2 | [SQLite: от среднего к продвинутому](https://labex.io/ru/courses/sqlite-intermediate-to-advanced) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/sqlite-intermediate-to-advanced) |
 
 ## Больше
 
