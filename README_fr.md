@@ -12,8 +12,8 @@ SQLite est un moteur de base de données SQL léger, autonome, sans serveur, san
 
 |   Index | Nom                                                                                          | Difficulté   | Repo                                                                     | Pratique                                                                           |
 |---------|----------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-|       1 | [SQLite pour les débutants](https://labex.io/fr/courses/sqlite-for-beginners)                | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Commencer le Lab](https://labex.io/fr/courses/sqlite-for-beginners)            |
-|       2 | [SQLite Intermédiaire à Avancé](https://labex.io/fr/courses/sqlite-intermediate-to-advanced) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Commencer le Lab](https://labex.io/fr/courses/sqlite-intermediate-to-advanced) |
+|       1 | [SQLite pour les débutants](https://labex.io/fr/courses/sqlite-for-beginners)                | Débutant     | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Commencer le Lab](https://labex.io/fr/courses/sqlite-for-beginners)            |
+|       2 | [SQLite Intermédiaire à Avancé](https://labex.io/fr/courses/sqlite-intermediate-to-advanced) | Débutant     | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Commencer le Lab](https://labex.io/fr/courses/sqlite-intermediate-to-advanced) |
 
 ## Plus
 
