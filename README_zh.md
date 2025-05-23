@@ -12,8 +12,8 @@ SQLite 是一个轻量级、自包含、无服务器、零配置、支持事务�
 
 |   序号 | 名称                                                                             | 难度   | Repo                                                                     | 练习                                                                       |
 |--------|----------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|      1 | [SQLite 初学者教程](https://labex.io/zh/courses/sqlite-for-beginners)            | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 开始实验](https://labex.io/zh/courses/sqlite-for-beginners)            |
-|      2 | [SQLite 中级到高级](https://labex.io/zh/courses/sqlite-intermediate-to-advanced) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 开始实验](https://labex.io/zh/courses/sqlite-intermediate-to-advanced) |
+|      1 | [SQLite 初学者教程](https://labex.io/zh/courses/sqlite-for-beginners)            | 初级   | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 开始实验](https://labex.io/zh/courses/sqlite-for-beginners)            |
+|      2 | [SQLite 中级到高级](https://labex.io/zh/courses/sqlite-intermediate-to-advanced) | 初级   | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 开始实验](https://labex.io/zh/courses/sqlite-intermediate-to-advanced) |
 
 ## 更多
 
