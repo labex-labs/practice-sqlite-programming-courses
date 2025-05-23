@@ -12,8 +12,8 @@ SQLite ist eine leichte, eigenständige, serverlose, konfigurationsfreie, transa
 
 |   Index | Name                                                                                              | Schwierigkeit   | Repo                                                                     | Übung                                                                           |
 |---------|---------------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|       1 | [SQLite für Anfänger](https://labex.io/de/courses/sqlite-for-beginners)                           | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Labor Starten](https://labex.io/de/courses/sqlite-for-beginners)            |
-|       2 | [SQLite: Fortgeschrittene Techniken](https://labex.io/de/courses/sqlite-intermediate-to-advanced) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Labor Starten](https://labex.io/de/courses/sqlite-intermediate-to-advanced) |
+|       1 | [SQLite für Anfänger](https://labex.io/de/courses/sqlite-for-beginners)                           | Anfänger        | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Labor Starten](https://labex.io/de/courses/sqlite-for-beginners)            |
+|       2 | [SQLite: Fortgeschrittene Techniken](https://labex.io/de/courses/sqlite-intermediate-to-advanced) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Labor Starten](https://labex.io/de/courses/sqlite-intermediate-to-advanced) |
 
 ## Mehr
 
