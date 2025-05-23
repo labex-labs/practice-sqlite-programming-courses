@@ -12,8 +12,8 @@ SQLite 는 가볍고, 자체 포함적이며, 서버리스, 제로 설정, 트�
 
 |   인덱스 | 이름                                                                                | 난이도   | Repo                                                                     | 연습                                                                        |
 |----------|-------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|        1 | [SQLite 초보자를 위한 안내](https://labex.io/ko/courses/sqlite-for-beginners)       | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 실습 시작](https://labex.io/ko/courses/sqlite-for-beginners)            |
-|        2 | [SQLite 중급에서 고급](https://labex.io/ko/courses/sqlite-intermediate-to-advanced) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 실습 시작](https://labex.io/ko/courses/sqlite-intermediate-to-advanced) |
+|        1 | [SQLite 초보자를 위한 안내](https://labex.io/ko/courses/sqlite-for-beginners)       | 초급     | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 실습 시작](https://labex.io/ko/courses/sqlite-for-beginners)            |
+|        2 | [SQLite 중급에서 고급](https://labex.io/ko/courses/sqlite-intermediate-to-advanced) | 초급     | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 실습 시작](https://labex.io/ko/courses/sqlite-intermediate-to-advanced) |
 
 ## 더 보기
 
