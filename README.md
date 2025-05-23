@@ -12,8 +12,8 @@ SQLite is a lightweight, self-contained, serverless, zero-configuration, transac
 
 |   Index | Name                                                                                        | Difficulty   | Repo                                                                     | Practice                                                                 |
 |---------|---------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [SQLite for Beginners](https://labex.io/courses/sqlite-for-beginners)                       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Start Lab](https://labex.io/courses/sqlite-for-beginners)            |
-|       2 | [SQLite Intermediate to Advanced](https://labex.io/courses/sqlite-intermediate-to-advanced) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Start Lab](https://labex.io/courses/sqlite-intermediate-to-advanced) |
+|       1 | [SQLite for Beginners](https://labex.io/courses/sqlite-for-beginners)                       | Beginner     | [🔗 Repo](https://github.com/labex-labs/sqlite-for-beginners)            | [🚀 Start Lab](https://labex.io/courses/sqlite-for-beginners)            |
+|       2 | [SQLite Intermediate to Advanced](https://labex.io/courses/sqlite-intermediate-to-advanced) | Beginner     | [🔗 Repo](https://github.com/labex-labs/sqlite-intermediate-to-advanced) | [🚀 Start Lab](https://labex.io/courses/sqlite-intermediate-to-advanced) |
 
 ## More
 
