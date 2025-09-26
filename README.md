@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/yNOqpRQSmPL4.png">
 </div>
 
-SQLite is a lightweight, self-contained, serverless, zero-configuration, transactional SQL database engine. This Skill Tree offers a comprehensive learning path for mastering SQLite. It's perfect for beginners and embedded application developers, presenting a structured roadmap to understand SQL queries, data modeling, and local database management. Through hands-on, non-video courses and practical exercises in an interactive SQL playground, you'll gain real-world experience in building and querying embedded databases.
+Learn SQLite, a lightweight, self-contained, and serverless SQL database engine. This learning path offers comprehensive SQLite courses designed for beginners and embedded application developers. It provides a structured roadmap to master SQL queries, data modeling, and local database management. Through a series of hands-on, non-video SQLite courses and practical exercises in an interactive SQL playground, learners gain real-world experience in building and querying embedded databases.
 
 |   Index | Name                                                                                        | Difficulty   | Repo                                                                     | Practice                                                                 |
 |---------|---------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
