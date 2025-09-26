@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/yNOqpRQSmPL4.png">
 </div>
 
-SQLite é um motor de banco de dados SQL leve, autônomo, sem servidor, sem configuração e transacional. Esta Skill Tree oferece um caminho de aprendizado abrangente para dominar SQLite. É perfeito para iniciantes e desenvolvedores de aplicativos embarcados, apresentando um roteiro estruturado para entender consultas SQL, modelagem de dados e gerenciamento de banco de dados local. Através de cursos práticos, sem vídeo, e exercícios práticos em um playground SQL interativo, você obterá experiência do mundo real na construção e consulta de bancos de dados embarcados.
+Aprenda SQLite, um mecanismo de banco de dados SQL leve, autocontido e sem servidor. Este roteiro de aprendizagem oferece cursos abrangentes de SQLite, projetados para iniciantes e desenvolvedores de aplicações embarcadas. Ele fornece um caminho estruturado para dominar consultas SQL, modelagem de dados e gerenciamento de banco de dados local. Através de uma série de cursos práticos de SQLite (não em vídeo) e exercícios práticos em um ambiente interativo de SQL, os alunos ganham experiência real na construção e consulta de bancos de dados embarcados.
 
 |   Índice | Nome                                                                                        | Dificuldade   | Repo                                                                     | Prática                                                                       |
 |----------|---------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
