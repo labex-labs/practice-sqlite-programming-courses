@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/yNOqpRQSmPL4.png">
 </div>
 
-SQLite ist eine leichte, eigenständige, serverlose, konfigurationsfreie, transaktionale SQL-Datenbank-Engine. Dieser Skill Tree bietet einen umfassenden Lernpfad zur Beherrschung von SQLite. Er ist ideal für Anfänger und Entwickler von eingebetteten Anwendungen und präsentiert eine strukturierte Roadmap, um SQL-Abfragen, Datenmodellierung und lokale Datenbankverwaltung zu verstehen. Durch praktische, nicht-videobasierte Kurse und Übungen in einem interaktiven SQL-Spielplatz sammeln Sie praktische Erfahrungen im Aufbau und Abfragen von eingebetteten Datenbanken.
+Lernen Sie SQLite, eine leichtgewichtige, eigenständige und serverlose SQL-Datenbank-Engine. Dieser Lernpfad bietet umfassende SQLite-Kurse, die für Anfänger und Entwickler eingebetteter Anwendungen konzipiert sind. Er bietet einen strukturierten Fahrplan, um SQL-Abfragen, Datenmodellierung und lokales Datenbankmanagement zu meistern. Durch eine Reihe von praxisorientierten SQLite-Kursen ohne Videos und praktischen Übungen in einem interaktiven SQL-Spielplatz erhalten Lernende reale Erfahrungen beim Erstellen und Abfragen eingebetteter Datenbanken.
 
 |   Index | Name                                                                                              | Schwierigkeit   | Repo                                                                     | Übung                                                                           |
 |---------|---------------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------|
